@@ -42,4 +42,4 @@ __This is also Bold__
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-[img] (img/apssdc.jpg)
+[img](img/apssdc.jpg)
