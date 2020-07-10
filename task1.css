@@ -1,0 +1,6 @@
+article img {
+	float: center;
+	border: solid blue;
+	border-radius: 50%;
+	padding: 5px;
+}
